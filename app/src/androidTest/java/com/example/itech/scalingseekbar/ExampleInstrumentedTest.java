@@ -1,4 +1,4 @@
-package com.mobileapp.itech.scalingseekbar;
+package com.example.itech.scalingseekbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

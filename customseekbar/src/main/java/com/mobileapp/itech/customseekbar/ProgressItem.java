@@ -1,4 +1,4 @@
-package com.mobileapp.itech.scalingseekbar;
+package com.mobileapp.itech.customseekbar;
 
 public class ProgressItem {
 

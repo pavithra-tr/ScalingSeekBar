@@ -1,4 +1,4 @@
-package com.mobileapp.itech.scalingseekbar;
+package com.example.itech.scalingseekbar;
 
 
 import android.graphics.Rect;
@@ -13,6 +13,9 @@ import android.view.animation.AnimationUtils;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
+
+import com.mobileapp.itech.customseekbar.ProgressItem;
+import com.mobileapp.itech.customseekbar.ScaleCustomSeekBar;
 
 import java.util.ArrayList;
 
