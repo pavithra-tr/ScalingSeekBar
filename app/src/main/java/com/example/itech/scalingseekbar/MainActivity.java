@@ -23,6 +23,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBarChangeListener {
     private ScaleCustomSeekBar mSeekbar;
     private TextView mTextView;
+
     private float totalSpan = 1500;
     private float redSpan = 300;
     private float blueSpan = 300;
